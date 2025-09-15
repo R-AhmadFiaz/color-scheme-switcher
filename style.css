@@ -1,0 +1,61 @@
+ body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+
+        .container{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+
+        span{
+            display: inline-block;
+            cursor: pointer;
+        }
+
+        h2{
+            padding-left: 140px;
+        }
+
+
+
+       
+        
+        
+        
+        #grey{
+            background-color: grey;
+            height: 123px;
+            width: 123px;
+            border-radius: 12px;
+            /* margin: 10px; */
+        }
+        #blue{
+            background-color: blue;
+            height: 123px;
+            width: 123px;
+            border-radius: 12px;
+            /* margin: 10px; */
+            
+        }
+        #orange{
+            background-color: orange;
+            height: 123px;
+            width: 123px;
+            border-radius: 12px;
+            /* margin: 10px; */
+            
+        }
+        #pink{
+            background-color: pink;
+            height: 123px;
+            width: 123px;
+            border-radius: 12px;
+            /* margin: 10px; */
+            
+        }
